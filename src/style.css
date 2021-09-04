@@ -7,7 +7,12 @@
 
 body {
 	background: white;
+
+	
+	display: block;
+=======
 	color: black;
+
 }
 
 .container {

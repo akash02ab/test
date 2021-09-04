@@ -5,6 +5,10 @@
 	font-family: sans-serif;
 }
 
+body {
+	background: white;
+}
+
 .container {
 	height: 100vh;
 	background: #2c3e50;
